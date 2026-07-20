@@ -18,6 +18,4 @@ _)      \.___.,|     .'
      `-'       `--' 
 ```
 
----
-
 ## Free and open source software.
